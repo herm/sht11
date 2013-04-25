@@ -1,0 +1,2 @@
+CPPSRC += sht11/sht11.cpp
+EXTRAINCDIRS += sht11
